@@ -1,6 +1,4 @@
-SnakeGame
+SnakeGame  (!)Don't run the solution yet.
 =========
 
 This is just thesis project
-
-(!)Don't run the solution yet.
